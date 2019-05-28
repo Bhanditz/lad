@@ -74,7 +74,7 @@
     "memwatch-next": "^0.3.0",
     "moment": "^2.18.1",
     "mongoose": "^4.11.10",
-    "mongoose-beautiful-unique-validation": "^7.0.0",
+    "mongoose-beautiful-unique-validation": "^7.1.1",
     "mongoose-json-select": "^0.2.1",
     "nodemailer": "^4.1.0",
     "nodemailer-base64-to-s3": "0.0.2",
