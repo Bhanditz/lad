@@ -39,7 +39,7 @@
     "html5-history-api": "^4.2.8",
     "i18n": "^0.8.3",
     "isomorphic-fetch": "^2.2.1",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "jquery-lazy": "^1.7.5",
     "jquery-placeholder": "^2.3.1",
     "jquery.pointer-events-polyfill": "^0.2.4",
