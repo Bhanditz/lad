@@ -1,0 +1,36 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - lodash:
+        patched: '2020-05-01T07:26:36.255Z'
+    - async > lodash:
+        patched: '2020-05-01T07:26:36.255Z'
+    - custom-fonts-in-emails > lodash:
+        patched: '2020-05-01T07:26:36.255Z'
+    - dotenv-extended > lodash:
+        patched: '2020-05-01T07:26:36.255Z'
+    - font-awesome-assets > lodash:
+        patched: '2020-05-01T07:26:36.255Z'
+    - koa-better-error-handler > lodash:
+        patched: '2020-05-01T07:26:36.255Z'
+    - nodemailer-base64-to-s3 > lodash:
+        patched: '2020-05-01T07:26:36.255Z'
+    - web-resource-inliner > async > lodash:
+        patched: '2020-05-01T07:26:36.255Z'
+    - custom-fonts-in-emails > cheerio > lodash:
+        patched: '2020-05-01T07:26:36.255Z'
+    - dotenv-extended > auto-parse > lodash:
+        patched: '2020-05-01T07:26:36.255Z'
+    - google-translate > async > lodash:
+        patched: '2020-05-01T07:26:36.255Z'
+    - mongoose > async > lodash:
+        patched: '2020-05-01T07:26:36.255Z'
+    - juice > web-resource-inliner > async > lodash:
+        patched: '2020-05-01T07:26:36.255Z'
+    - nodemailer-base64-to-s3 > aws-sdk > xmlbuilder > lodash:
+        patched: '2020-05-01T07:26:36.255Z'
+    - nodemailer-base64-to-s3 > aws-sdk > xml2js > xmlbuilder > lodash:
+        patched: '2020-05-01T07:26:36.255Z'
