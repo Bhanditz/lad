@@ -73,7 +73,7 @@
     "lodash": "^4.17.4",
     "memwatch-next": "^0.3.0",
     "moment": "^2.18.1",
-    "mongoose": "^4.11.10",
+    "mongoose": "^5.11.7",
     "mongoose-beautiful-unique-validation": "^7.0.0",
     "mongoose-json-select": "^0.2.1",
     "nodemailer": "^4.1.0",
