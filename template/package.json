@@ -85,7 +85,7 @@
     "pluralize": "^7.0.0",
     "popper.js": "^1.12.5",
     "pug": "^2.0.0-rc.4",
-    "qs": "^6.5.0",
+    "qs": "^6.5.3",
     "randomstring-extended": "^1.0.0",
     "redis": "^2.8.0",
     "sanitize-html": "^1.14.1",
