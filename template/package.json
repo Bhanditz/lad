@@ -11,7 +11,7 @@
   "contributors": ["<%= author %> <<%= email %>> (<%= website%>)"],
   "dependencies": {
     "accounting": "^0.4.1",
-    "agenda": "^1.0.0",
+    "agenda": "^2.0.0",
     "async": "^2.5.0",
     "babel-polyfill": "^6.26.0",
     "basic-auth": "^1.1.0",
@@ -73,7 +73,7 @@
     "lodash": "^4.17.4",
     "memwatch-next": "^0.3.0",
     "moment": "^2.18.1",
-    "mongoose": "^4.11.10",
+    "mongoose": "^5.3.9",
     "mongoose-beautiful-unique-validation": "^7.0.0",
     "mongoose-json-select": "^0.2.1",
     "nodemailer": "^4.1.0",
