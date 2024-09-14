@@ -66,7 +66,7 @@
     "koa-passport": "^4.0.0",
     "koa-redis": "^3.0.0",
     "koa-response-time": "^2.0.0",
-    "koa-router": "^7.2.1",
+    "koa-router": "^13.0.1",
     "koa-simple-ratelimit": "^2.3.2",
     "koa-views": "^6.0.2",
     "limax": "^1.5.0",
