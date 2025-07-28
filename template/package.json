@@ -45,7 +45,7 @@
     "jquery.pointer-events-polyfill": "^0.2.4",
     "juice": "^4.1.1",
     "kcors": "^2.2.1",
-    "koa": "^2.3.0",
+    "koa": "^3.0.1",
     "koa-better-error-handler": "^1.2.0",
     "koa-better-flash": "0.0.3",
     "koa-better-static": "^1.0.5",
